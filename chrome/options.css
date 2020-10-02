@@ -114,6 +114,7 @@ input {
     display: block;
     width: 150px;
     height: 100%;
+    overflow: visible;
 }
 .pipe-new {
     opacity: 0;
